@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EKF_AI", "EKF_AI\EKF_AI.csproj", "{A1FA7BC4-F76F-4DB1-B130-205839BD51AE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BotTG", "BotTG\BotTG.csproj", "{A3946A75-4DC6-4DBF-A114-B52E277167FA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MLModel3_ConsoleApp1", "MLModel3_ConsoleApp1\MLModel3_ConsoleApp1\MLModel3_ConsoleApp1.csproj", "{D110C7B1-8E72-4283-901F-8DDA79DE6233}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EKF_AI.ML", "EKF_AI.ML\EKF_AI.ML.csproj", "{5B70B8C7-E323-4AE6-8305-5D0535540628}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ObjectDetectionPy", "ObjectDetectionPy\ObjectDetectionPy.pyproj", "{A5179E2E-73C7-473A-A8CC-359BB90E0E00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1FA7BC4-F76F-4DB1-B130-205839BD51AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1FA7BC4-F76F-4DB1-B130-205839BD51AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1FA7BC4-F76F-4DB1-B130-205839BD51AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1FA7BC4-F76F-4DB1-B130-205839BD51AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3946A75-4DC6-4DBF-A114-B52E277167FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3946A75-4DC6-4DBF-A114-B52E277167FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3946A75-4DC6-4DBF-A114-B52E277167FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3946A75-4DC6-4DBF-A114-B52E277167FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D110C7B1-8E72-4283-901F-8DDA79DE6233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D110C7B1-8E72-4283-901F-8DDA79DE6233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D110C7B1-8E72-4283-901F-8DDA79DE6233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D110C7B1-8E72-4283-901F-8DDA79DE6233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B70B8C7-E323-4AE6-8305-5D0535540628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B70B8C7-E323-4AE6-8305-5D0535540628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B70B8C7-E323-4AE6-8305-5D0535540628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B70B8C7-E323-4AE6-8305-5D0535540628}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5179E2E-73C7-473A-A8CC-359BB90E0E00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5179E2E-73C7-473A-A8CC-359BB90E0E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00C785E1-03FF-4E35-AB1D-857A89ABE40E}
+	EndGlobalSection
+EndGlobal

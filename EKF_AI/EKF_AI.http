@@ -1,0 +1,15 @@
+@EKF_AI_HostAddress = http://localhost:7126
+
+GET {{EKF_AI_HostAddress}}/images/GetAll
+Accept: application/json
+
+
+GET {{EKF_AI_HostAddress}}/images/GetAllToProcessing
+Accept: application/json
+
+
+
+GET {{EKF_AI_HostAddress}}/images/LoadResult?imageId=1&name=Test&precision=1&result=Test
+Accept: application/json
+
+###
